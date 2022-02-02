@@ -7,3 +7,5 @@ nnoremap <C-f> :NERDTreeFind<CR>
 map <C-p> :Files<CR>
 map <leader>b :Buffers<CR>
 
+" toggle line numbers
+noremap <leader>l :set invnumber invrelativenumber<CR>

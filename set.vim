@@ -29,3 +29,4 @@ set backupdir=~/.cache/vim " Directory to store backup files.
 let g:airline_powerline_fonts = 1
 " File browser
 let NERDTreeShowHidden=1
+
